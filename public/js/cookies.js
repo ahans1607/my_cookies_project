@@ -1,4 +1,5 @@
 window.addEventListener("DOMContentLoaded", (event) => {
-  // Your JavaScript goes here...
+  document.cookie = "myFirstCookie"
+  document.cookie? = "mySecondCoockie"
   
 });
